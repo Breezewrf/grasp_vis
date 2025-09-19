@@ -1,0 +1,5 @@
+{
+  "name": "Automated Grasping System UI",
+  "description": "A comprehensive user interface for monitoring and controlling an automated robotic grasping system. It provides real-time camera feeds, 3D visualization, system status, and detailed logging.",
+  "requestFramePermissions": []
+}
